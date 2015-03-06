@@ -1,0 +1,14 @@
+*.vcxproj*
+*.vcxproj.filters
+*.so
+
+*.txt
+*.xml
+*.lib
+*.dll
+*.map
+*.conf
+*.lua
+
+Debug/
+Release/
